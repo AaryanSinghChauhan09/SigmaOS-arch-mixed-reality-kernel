@@ -3,7 +3,7 @@ name = "SigmaOS-arch-mixed-reality-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-mixed-reality-kernel component"
+description = "SigmaOS SigmaOS-arch-mixed-reality-kernel component"
 upstream = []
 
 [contract]
